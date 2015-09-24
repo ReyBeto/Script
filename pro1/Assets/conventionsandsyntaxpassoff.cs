@@ -30,7 +30,7 @@ public class conventionsandsyntaxpassoff : MonoBehaviour
         {
 			print("SPLAT!");
         }
-        else if (cubeTop <= bottomLimitFloor)
+        else if (cubeTop < bottomLimitFloor)
         {
             print("I'm going to splater!");
         }

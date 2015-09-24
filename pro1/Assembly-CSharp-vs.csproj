@@ -49,6 +49,7 @@
      <Compile Include="Assets\conventionsandsyntax.cs" />
      <Compile Include="Assets\conventionsandsyntaxpassoff.cs" />
      <Compile Include="Assets\ifstatments.cs" />
+     <Compile Include="Assets\loops.cs" />
      <Compile Include="Assets\variablesandfunctions.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
