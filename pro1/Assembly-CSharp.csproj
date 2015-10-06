@@ -45,22 +45,26 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Loops\dowhileloop.cs" />
+     <Compile Include="Assets\Loops\foreachloop.cs" />
+     <Compile Include="Assets\Loops\loops.cs" />
+     <Compile Include="Assets\Loops\whileloop.cs" />
+     <Compile Include="Assets\classesanddatatypes\classes\inventory.cs" />
+     <Compile Include="Assets\classesanddatatypes\classes\movmentcontrols.cs" />
+     <Compile Include="Assets\classesanddatatypes\classes\shooting.cs" />
+     <Compile Include="Assets\classesanddatatypes\classes\singlecharacter.cs" />
+     <Compile Include="Assets\classesanddatatypes\datatype.cs" />
      <Compile Include="Assets\conventionsandsyntax.cs" />
      <Compile Include="Assets\conventionsandsyntaxpassoff.cs" />
      <Compile Include="Assets\ifstatments.cs" />
-     <Compile Include="Assets\loops.cs" />
+     <Compile Include="Assets\scope and access\anotherclass.cs" />
+     <Compile Include="Assets\scope and access\scopeandaccess.cs" />
      <Compile Include="Assets\variablesandfunctions.cs" />
- <Reference Include="UnityEngine.Advertisements">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/UnityEngine.Advertisements.dll</HintPath>
- </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
- </Reference>
- <Reference Include="UnityEngine.Analytics">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
  </Reference>
  <Reference Include="Mono.Cecil">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/Mono.Cecil.dll</HintPath>

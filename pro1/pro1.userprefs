@@ -1,8 +1,11 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\loops.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\classesanddatatypes\classes\shooting.cs">
     <Files>
-      <File FileName="Assets\loops.cs" Line="6" Column="10" />
+      <File FileName="Assets\classesanddatatypes\classes\inventory.cs" Line="5" Column="1" />
+      <File FileName="Assets\classesanddatatypes\classes\shooting.cs" Line="5" Column="1" />
+      <File FileName="Assets\classesanddatatypes\classes\movmentcontrols.cs" Line="5" Column="1" />
+      <File FileName="Assets\classesanddatatypes\classes\singlecharacter.cs" Line="5" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
